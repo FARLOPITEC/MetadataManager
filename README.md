@@ -19,11 +19,15 @@ MetadataManager is a Windows Forms application developed in C# that allows you t
 ---
 
 ## 📦 Installation
-1. 🚀 Clone the repository:  
-   `git clone https://github.com/FARLOPITEC/MetadataManager.git`  
-2. 🖼️ Open the project in Visual Studio.  
-3. 🔄 Restore the required NuGet packages.  
-4. ▶️ Build and run the application.  
+1. 🚀 Clone the repository:
+   
+   ``` bash
+   git clone https://github.com/FARLOPITEC/MetadataManager.git
+   ```
+   
+3. 🖼️ Open the project in Visual Studio.  
+4. 🔄 Restore the required NuGet packages.  
+5. ▶️ Build and run the application.  
 
 ---
 
